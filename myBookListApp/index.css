@@ -1,0 +1,13 @@
+label, input, button{
+    margin-bottom: 10px;
+}
+.form-control,.idbtn,.submitbtn{
+    border-radius: 0%;
+}
+.btn-primary{
+    color: #fff;
+    background-color: #2B3A55;
+}
+.submitbtn{
+    width: 100%;
+}
